@@ -1,4 +1,4 @@
-# babel-preset
+# @bitwala/babel-preset
 
 [![npm version](https://badge.fury.io/js/%40bitwala%2Fbabel-preset.svg)](https://badge.fury.io/js/%40bitwala%2Fbabel-preset)
 [![npm monthly downloads](https://img.shields.io/npm/dm/%40bitwala%2Fbabel-preset.svg)](https://img.shields.io/npm/dm/%40bitwala%2Fbabel-preset.svg)
