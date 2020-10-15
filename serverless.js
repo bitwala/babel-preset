@@ -9,7 +9,12 @@ module.exports = () => {
           },
         },
       ],
-      require('@babel/preset-typescript'),
+      [
+        require('@babel/preset-typescript'),
+        {
+          onlyRemoveTypeImports: true,
+        },
+      ],
     ],
     plugins: [
       require('@babel/plugin-proposal-class-properties'),
