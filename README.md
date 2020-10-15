@@ -44,4 +44,4 @@ module.exports = {
 3. Commit the changes `git commit -m vx.x.x`.
 4. Create a new git tag `git tag -a vx.x.x -m vx.x.x`.
 5. Run `yarn npm publish` to publish the package to the registry.
-6. Push the changes `git push --tags`.
+6. Push the changes `git push && git push --tags`.
